@@ -1,19 +1,25 @@
 # Hi there! 👋 I'm Alexandra Blandon
 
-I am a **Cybersecurity Specialist & Software Developer** with a focus on digital forensics, incident response, and security automation. I believe in a "builder-first" approach to security, creating tools that solve real-world problems.
+I am a **Cybersecurity Specialist & Software Developer** who believes that the best defense is built with code. I spend my time automating security triage, analyzing logs, and building tools that make infrastructure just a little bit safer.
 
-### 🛠 Technical Skills
-* **Cybersecurity:** Network Defense, Incident Response, Malware Remediation, SIEM Log Analysis.
-* **Programming & Automation:** Python (Security Automation), JavaScript, HTML, CSS, Git.
-* **Methodologies:** Agile, Systematic Troubleshooting, Technical Documentation.
+### 🛠 My Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 
 ### 🚀 Featured Projects
-* **[PhishPhaser]():** An open-source Python utility for automated email header analysis to detect phishing indicators.
-* **[The Digital Detective Chronicles](https://github.com/AlleyBeeeeee/The-Digital-Detective-Chronicles):** A digital forensics portfolio showcasing log auditing, threat hunting, and memory forensics labs.
+* **[PhishPhaser]:** An open-source Python utility for automated email header analysis. *Because manually checking headers is so 2020.*
+* **[The Digital Detective Chronicles](link-to-your-repo):** A deep-dive portfolio into SIEM, threat hunting, and memory forensics.
 
-### 📫 How to reach me
-* [LinkedIn](https://www.linkedin.com/in/alexandrablandoncruz)
-* [Email](mailto:Alexandra.blandon@gmail.com)
+### 📈 Where I'm at
+* 🔭 **Currently working on:** Hardware and Software Support and Automating security workflows at Circuit SHEro.
+* 🌱 **Currently learning:** Advanced Dutch and cloud infrastructure security.
+* ⚡ **Fun fact:** I can diagnose a macOS kernel panic faster than most people can finish their morning coffee.
+
+### 💬 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/alexandrablandoncruz) | [Email](mailto:Alexandra.blandon@gmail.com)
 
 ---
-*Pronouns: She/Her*
+*If you see me online, it’s probably because I’m debugging something.* ☕️✨
