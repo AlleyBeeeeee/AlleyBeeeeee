@@ -10,7 +10,7 @@ I am a **Cybersecurity Specialist & Software Developer** who believes that the b
 </p>
 
 ### 🚀 Featured Projects
-* **[PhishPhaser]:** An open-source Python utility for automated email header analysis. *Because manually checking headers is so 2020.*
+* **[PhishPhaser](https://github.com/AlleyBeeeeee/PhishPhaser):** An open-source Python utility for automated email header analysis. *Because manually checking headers is so 2020.*
 * **[The Digital Detective Chronicles](link-to-your-repo):** A deep-dive portfolio into SIEM, threat hunting, and memory forensics.
 
 ### 📈 Where I'm at
