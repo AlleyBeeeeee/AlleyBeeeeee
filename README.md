@@ -10,6 +10,7 @@ I am a **Cybersecurity Specialist & Software Developer** who believes that the b
 </p>
 
 ### 🚀 Featured Projects
+* **[Interactive Digital Resume](https://AlleyBeeeeee.github.io/portfolio):** A custom, text-terminal terminal resume built with vanilla HTML, CSS, and JavaScript featuring a mini security override challenge.
 * **[PhishPhaser](https://github.com/AlleyBeeeeee/PhishPhaser):** An open-source Python utility for automated email header analysis. *Because manually checking headers is so 2020.*
 * **[The Digital Detective Chronicles](link-to-your-repo):** A deep-dive portfolio into SIEM, threat hunting, and memory forensics.
 
@@ -19,7 +20,7 @@ I am a **Cybersecurity Specialist & Software Developer** who believes that the b
 * ⚡ **Fun fact:** I can diagnose a macOS kernel panic faster than most people can finish their morning coffee.
 
 ### 💬 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/alexandrablandoncruz) | [Email](mailto:Alexandra.blandon@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/alexandrablandoncruz) | [Email](mailto:Alexandra.blandon@gmail.com) | [Interactive Resume](https://AlleyBeeeeee.github.io/portfolio)
 
 ---
 *If you see me online, it’s probably because I’m debugging something.* ☕️✨
