@@ -10,9 +10,9 @@ I am a **Cybersecurity Specialist & Software Developer** who believes that the b
 </p>
 
 ### 🚀 Featured Projects
-* **[Interactive Digital Resume](https://https://alleybeeeeee.github.io/digital-resume):** A custom, text-terminal terminal resume built with vanilla HTML, CSS, and JavaScript featuring a mini security override challenge.
+* **[Interactive Digital Resume](https://alleybeeeeee.github.io/digital-resume):** A custom, text-terminal terminal resume built with vanilla HTML, CSS, and JavaScript featuring a mini security override challenge.
 * **[PhishPhaser](https://github.com/AlleyBeeeeee/PhishPhaser):** An open-source Python utility for automated email header analysis. *Because manually checking headers is so 2020.*
-* **[The Digital Detective Chronicles](link-to-your-repo):** A deep-dive portfolio into SIEM, threat hunting, and memory forensics.
+* **[The Digital Detective Chronicles](https://github.com/AlleyBeeeeee/The-Digital-Detective-Chronicles):** A deep-dive portfolio into SIEM, threat hunting, and memory forensics.
 
 ### 📈 Where I'm at
 * 🔭 **Currently working on:** Hardware and Software Support and Automating security workflows at Circuit SHEro.
