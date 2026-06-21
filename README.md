@@ -1,10 +1,9 @@
 # Hi there! 👋 I'm Alexandra Blandon
 
-I am a **Brooklyn-born Boricua, Cybersecurity Specialist, & Software Developer** who believes that the best defense is built with code. I spend my time automating security triage, analyzing logs, and building tools that make infrastructure just a little bit safer. 
+I am a **Brooklyn-born, Cybersecurity Specialist, & Software Developer** who believes that the best defense is built with code. I spend my time automating security triage, analyzing logs, and building tools that make infrastructure just a little bit safer. 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Madamistan%2C%20NY%20%F0%9F%87%B5%F0%9F%87%B7-purple?style=for-the-badge&logo=newyork" alt="Location Badge" />
-  <img src="https://img.shields.io/badge/Aesthetic-Boricua%20%7C%20Emo%20%7C%20Punk%20-black?style=for-the-badge&logo=skate" alt="Aesthetic Badge" />
+  <i>✨ Boricua & Colombiana · Cybersecurity Specialist · Software Developer · 📍 Locally stationed in Madamistan, NYC ✨</i>
 </p>
 
 ---
@@ -28,15 +27,6 @@ I am a **Brooklyn-born Boricua, Cybersecurity Specialist, & Software Developer**
 *   **Defensive Automation:** Python 🐍 *(because why do it manually if you can script it?)* `image_281cbc.png`
 *   **Frontend Infiltration:** JavaScript 🟡 *(for building smooth, interactive terminal overrides)* `image_281cbc.png`
 *   **Tactical Gear:** Git, Linux, Volatility, Autopsy 🛠️
-
----
-
-### 🛠 My Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
 
 ---
 
@@ -68,8 +58,6 @@ I am a **Brooklyn-born Boricua, Cybersecurity Specialist, & Software Developer**
 ---
 
 ### 💬 Let's Connect
-
-📍 **Locally stationed in Madamistan, NYC**
 
 <p align="center">
   <a href="www.linkedin.com/in/alexandrablandoncruz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
