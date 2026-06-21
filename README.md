@@ -43,24 +43,30 @@
 ---
 
 ### 🧪 Active Lab Objectives (Fueled by Hyperfocus)
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN3N3o5M2Z2ZXJ5ajZ0dmdwZ3FhcGNwZTNxdnI2OHZsMm14YjZpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPnAiaMCw7A16bC/giphy.gif" width="100" alt="Radar/Matrix GIF" />
-</p>
 
 *   🖥️ **Purple Team Lab Audit:** Currently hardening local network segments and refining firewall rules to simulate real-world enterprise defenses.
 *   🗺️ **Cloud Frontier:** Transitioning my investigative portfolio architecture to secure cloud infrastructure.
 *   🗣️ **Language Side Quests:** Currently learning American Sign Language and Dutch because binary isn't the only alternative language I want to master.
 
 ---
-<p align="center">
-  <img src="8bitalley.png" alt="8-bit character working on hardware" width="100" height="200" />
-</p>
-### 🖤 Beyond the Code
 
-*   **The Great Transition:** I traded professional chef knives for Python scripts. My ADHD is my superpower here, it means I don’t just learn a new concept or solve a technical problem. I absolutely devour it, deep-diving into intense hyperfocus until I master the topic and the system is completely secure.
-*   **Chaos Coordinator:** When I’m not analyzing malicious email headers, I'm managing a beautiful, hectic 3-node multi-tenant cluster at home (otherwise known as my three kids). 
-*   **Aesthetic:** Somewhere between alternative subcultures, emo playlists, heavy terminal themes, and Brooklyn culture lies my coding sweet spot.
-*   **⚡ Fun fact:** Powered strictly by hot Puerto Rican coffee, heavy bass, and the classic BK determination to figure out exactly why a system broke. 
+  <div align="center" style="flex-shrink: 0; padding-top: 40px;">
+    <img src="8bitalley.png" alt="Alexandra Blandon Tech Close-up" width="160" />
+  </div>
+  
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
+  <div style="flex: 1;">
+
+  ### 🖤 Beyond the Code
+
+  * **The Great Transition:** I traded professional chef knives for Python scripts. My ADHD is my superpower here, it means I don’t just learn a new concept or solve a technical problem. I absolutely devour it, deep-diving into intense hyperfocus until I master the topic and the system is completely secure.
+  * **Chaos Coordinator:** When I’m not analyzing malicious email headers, I'm managing a beautiful, hectic 3-node multi-tenant cluster at home (otherwise known as my three kids).
+  * **Aesthetic:** Somewhere between alternative subcultures, emo playlists, heavy terminal themes, and personal flavor lies my coding sweet spot.
+  * **⚡ Fun fact:** Powered strictly by hot Puerto Rican coffee, heavy bass, and a determination to figure out exactly why a system broke.
+
+  </div>
+
+</div>
 
 ---
 
