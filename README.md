@@ -1,14 +1,23 @@
-# Hi there! 👋 I'm Alexandra Blandon
-
-I am a **Brooklyn-born, Cybersecurity Specialist, & Software Developer** who believes that the best defense is built with code. I spend my time automating security triage, analyzing logs, and building tools that make infrastructure just a little bit safer. 
+<table>
+  <tr>
+    <td>
+      <h1>Hi there! 👋 I'm Alexandra Blandon</h1>
+      <p>I am a <b>Brooklyn-born, Cybersecurity Specialist, & Software Developer</b> who believes that the best defense is built with code. I spend my time automating security triage, analyzing logs, and building tools that make infrastructure just a little bit safer</p>
+      <p>From navigating a chaotic NYC culinary line to tracking down digital adversaries, I’ve always thrived in high-pressure environments. My ADHD is my superpower—meaning I approach incident response and deep-dive learning with an intense hyperfocus and an absolute refusal to crack under fire. </p>
+    </td>
+    <block valign="top">
+      <td>
+        <div style="flex-shrink: 0; padding-top: 10px;">
+    <img src="8bitalleyfull.png" alt="Alexandra Blandon Avatar" width="190" />
+  </div>
+      </td>
+    </block>
+  </tr>
+</table>
 
 <p align="center">
   <i>✨ Boricua & Colombiana · Cybersecurity Specialist · Software Developer · 📍 Locally stationed in Madamistan, NYC ✨</i>
 </p>
-
----
-
-*From navigating a chaotic NYC culinary line to tracking down digital adversaries, I’ve always thrived in high-pressure environments. I approach incident response the same way I approach life: with speed, deep hyperfocus, and an absolute refusal to crack under fire.*
 
 ---
 
@@ -43,7 +52,9 @@ I am a **Brooklyn-born, Cybersecurity Specialist, & Software Developer** who bel
 *   🗣️ **Language Side Quests:** Currently learning American Sign Language and Dutch because binary isn't the only alternative language I want to master.
 
 ---
-
+<p align="center">
+  <img src="8bitalley.png" alt="8-bit character working on hardware" width="100" height="200" />
+</p>
 ### 🖤 Beyond the Code
 
 *   **The Great Transition:** I traded professional chef knives for Python scripts. My ADHD is my superpower here, it means I don’t just learn a new concept or solve a technical problem. I absolutely devour it, deep-diving into intense hyperfocus until I master the topic and the system is completely secure.
