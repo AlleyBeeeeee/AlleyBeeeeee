@@ -53,9 +53,6 @@
   <div align="center" style="flex-shrink: 0; padding-top: 40px;">
     <img src="8bitalley.png" alt="Alexandra Blandon Tech Close-up" width="160" />
   </div>
-  
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
-  <div style="flex: 1;">
 
   ### 🖤 Beyond the Code
 
@@ -63,11 +60,6 @@
   * **Chaos Coordinator:** When I’m not analyzing malicious email headers, I'm managing a beautiful, hectic 3-node multi-tenant cluster at home (otherwise known as my three kids).
   * **Aesthetic:** Somewhere between alternative subcultures, emo playlists, heavy terminal themes, and personal flavor lies my coding sweet spot.
   * **⚡ Fun fact:** Powered strictly by hot Puerto Rican coffee, heavy bass, and a determination to figure out exactly why a system broke.
-
-  </div>
-
-</div>
-
 ---
 
 ### 💬 Let's Connect
