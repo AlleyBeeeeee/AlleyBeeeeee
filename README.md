@@ -3,10 +3,6 @@
 I am a **Brooklyn-born Boricua, Cybersecurity Specialist, & Software Developer** who believes that the best defense is built with code. I spend my time automating security triage, analyzing logs, and building tools that make infrastructure just a little bit safer. 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B388FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Alexandra+Blandon;Proudly+Reigning+Over+Madamistan;Cybersecurity+Specialist+%26+Developer" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Location-Madamistan%2C%20NY%20%F0%9F%87%B5%F0%9F%87%B7-purple?style=for-the-badge&logo=newyork" alt="Location Badge" />
   <img src="https://img.shields.io/badge/Aesthetic-Boricua%20%7C%20Emo%20%7C%20Punk%20-black?style=for-the-badge&logo=skate" alt="Aesthetic Badge" />
 </p>
