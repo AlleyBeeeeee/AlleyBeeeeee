@@ -1,12 +1,33 @@
 # Hi there! 👋 I'm Alexandra Blandon
 
-I am a **Cybersecurity Specialist & Software Developer** who believes that the best defense is built with code `image_281cbc.png`. I spend my time automating security triage, analyzing logs, and building tools that make infrastructure just a little bit safer `image_281cbc.png`. 
+I am a **Brooklyn-born Boricua, Cybersecurity Specialist, & Software Developer** who believes that the best defense is built with code. I spend my time automating security triage, analyzing logs, and building tools that make infrastructure just a little bit safer. 
 
-*From the culinary line to the command line, I’ve always thrived in high-pressure environments. I believe strong security operations require the same ingredients as a great service: speed, precision, deep triage, and a refusal to crack under fire.*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B388FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Alexandra+Blandon;Proudly+Reigning+Over+Madamistan;Cybersecurity+Specialist+%26+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Madamistan%2C%20NY%20%F0%9F%87%B5%F0%9F%87%B7-purple?style=for-the-badge&logo=newyork" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Aesthetic-Boricua%20%7C%20Emo%20%7C%20Punk%20-black?style=for-the-badge&logo=skate" alt="Aesthetic Badge" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0cmU2cmE2b2Z6eDZ0eGQ0aHZicXp4eGx3NmV6NXA4NnRxN2psZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L8KJu5Y5b1V7y/giphy.gif" width="120" alt="Cyber Skull GIF" />
+</p>
+
+*"From navigating a chaotic NYC culinary line to tracking down digital adversaries, I’ve always thrived in high-pressure environments. I approach incident response the same way I approach life: with speed, deep hyperfocus, and an absolute refusal to crack under fire."*
 
 ---
 
 ### 🛠️ My Arsenal
+<p align="left">
+  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://git-scm.com/ "><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+</p>
 
 *   **Defensive Automation:** Python 🐍 *(because why do it manually if you can script it?)* `image_281cbc.png`
 *   **Frontend Infiltration:** JavaScript 🟡 *(for building smooth, interactive terminal overrides)* `image_281cbc.png`
@@ -30,7 +51,10 @@ I am a **Cybersecurity Specialist & Software Developer** who believes that the b
 
 ---
 
-### 🧪 Active Lab Objectives
+### 🧪 Active Lab Objectives (Fueled by Hyperfocus)
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN3N3o5M2Z2ZXJ5ajZ0dmdwZ3FhcGNwZTNxdnI2OHZsMm14YjZpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPnAiaMCw7A16bC/giphy.gif" width="100" alt="Radar/Matrix GIF" />
+</p>
 
 *   🖥️ **Purple Team Lab Audit:** Currently hardening local network segments and refining firewall rules to simulate real-world enterprise defenses.
 *   🗺️ **Cloud Frontier:** Transitioning my investigative portfolio architecture to secure cloud infrastructure.
@@ -40,15 +64,28 @@ I am a **Cybersecurity Specialist & Software Developer** who believes that the b
 
 ### 🖤 Beyond the Code
 
-*   **The Great Transition:** I traded professional chef knives for Python scripts. I approach debugging a complex codebase the exact same way I used to handle a chaotic dinner rush—with absolute calm and structured execution.
-*   **Chaos Coordinator:** When I’m not analyzing malicious email headers, I'm managing a chaotic, beautiful 3-node multi-tenant cluster at home (otherwise known as my three kids). 
-*   **Aesthetic:** Somewhere between alternative subcultures, loud music, and heavy terminal themes lies my coding sweet spot.
-*   **⚡ Fun fact:** I can diagnose a macOS kernel panic faster than most people can finish their morning coffee `image_281cbc.png`.
+*   **The Great Transition:** I traded professional chef knives for Python scripts. My ADHD is my superpower here, it means I don’t just learn a new concept or solve a technical problem. I absolutely devour it, deep-diving into intense hyperfocus until I master the topic and the system is completely secure.
+*   **Chaos Coordinator:** When I’m not analyzing malicious email headers, I'm managing a beautiful, hectic 3-node multi-tenant cluster at home (otherwise known as my three kids). 
+*   **Aesthetic:** Somewhere between alternative subcultures, emo playlists, heavy terminal themes, and Brooklyn culture lies my coding sweet spot.
+*   **⚡ Fun fact:** Powered strictly by hot Puerto Rican coffee, heavy bass, and the classic BK determination to figure out exactly why a system broke. 
 
 ---
 
 ### 💬 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/alexandrablandoncruz) | [Email](mailto:Alexandra.blandon@gmail.com) | [Interactive Resume](https://AlleyBeeeeee.github.io/portfolio)
 
+📍 **Locally stationed in Madamistan, NYC**
+
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <i>Always down to connect with fellow NYC tech specialists, alternative developers, and defenders at local city meetups or cloud summits!</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B388FF&height=100&section=footer" alt="Footer Wave" />
+</p>
 ---
 *If you see me online, it’s probably because I’m debugging something.* ☕️✨
