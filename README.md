@@ -8,10 +8,6 @@ I am a **Brooklyn-born, Cybersecurity Specialist, & Software Developer** who bel
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0cmU2cmE2b2Z6eDZ0eGQ0aHZicXp4eGx3NmV6NXA4NnRxN2psZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L8KJu5Y5b1V7y/giphy.gif" width="120" alt="Cyber Skull GIF" />
-</p>
-
 *From navigating a chaotic NYC culinary line to tracking down digital adversaries, I’ve always thrived in high-pressure environments. I approach incident response the same way I approach life: with speed, deep hyperfocus, and an absolute refusal to crack under fire.*
 
 ---
